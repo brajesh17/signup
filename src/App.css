@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+.container{
+  padding:20px;
+  
+}
+
+.x{
+  margin: auto;
+  margin-top:20px;
+  box-shadow: 0 0px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 8px 0 rgba(0, 0, 0, 0.19);
+  padding: 10px;
+  
+}
+
+.y{
+  height: 40px;
+  width: 55%;
+  border: 1px solid grey;
+  border-radius: 3px;
+  padding:20px;
+  margin-bottom: 5px;
+  margin-left: 0%;
+}
+.fb{
+   height: 45px;
+   margin: 10px;
+   border: 0px solid grey;
+   background-color: white;
+   border-radius: 2px;
+   color: gray;
+   font-size: 14px;
+   width: 47%;
+   padding:5px;
+   box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.3);
+   padding: 5px;
+
+}
+.form{
+  width: 45%;
+  margin-left: 30% ;
+
+}
+
+.btn:hover{
+  background-color: blue !important;
+  color: aliceblue !important;
+  border-radius: 3%;
+}
